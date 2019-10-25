@@ -1,1 +1,1 @@
-Clone of old apple site
+Clone of an old apple site
