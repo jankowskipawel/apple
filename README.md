@@ -1,2 +1,2 @@
-Clone of an old apple site
+Clone of an old apple site. 
 Not completed.
